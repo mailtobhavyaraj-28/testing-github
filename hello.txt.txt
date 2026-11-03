@@ -5,3 +5,6 @@ I am learning GitHub from scratch.
 
 My goal is to understand GitHub
 and become comfortable using it.
+I have completed my first four GitHub lessons.
+
+Now I am learning commits and version history.
