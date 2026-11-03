@@ -1,0 +1,7 @@
+Hello GitHub!
+
+This is my first file.
+I am learning GitHub from scratch.
+
+My goal is to understand GitHub
+and become comfortable using it.
